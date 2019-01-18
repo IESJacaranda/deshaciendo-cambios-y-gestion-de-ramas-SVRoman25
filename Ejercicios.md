@@ -4,7 +4,7 @@
 > When I to sulphurous and tormenting flames
 > Must render up myself.
 
-Primero inicializamos git y nos traemos el repositorio con git clone https://github.com/IESJacaranda/deshaciendo-cambios-y-gestion-de-ramas-SVRoman25.git una ves que tenemos el repositorio en nuestro ordenador accedemos al archivo con nano scene-5.txt y añadimos la modificacion
+-Primero inicializamos git y nos traemos el repositorio con git clone https://github.com/IESJacaranda/deshaciendo-cambios-y-gestion-de-ramas-SVRoman25.git una ves que tenemos el repositorio en nuestro ordenador accedemos al archivo con nano scene-5.txt y añadimos la modificacion
 
 2. Añade scene-5.txt al área de preparación.
  Lo añadimos con git add scene-5.txt
